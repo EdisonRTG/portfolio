@@ -1,0 +1,25 @@
+.shap{
+
+  height: 0;
+  width: 0;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  border-bottom: 30px solid black;
+    
+   }
+  .borderCircle {
+    border-radius: 9999px;
+    border: '1px solid #fff';
+  }
+
+  .page {
+    max-width: 1000px;
+    margin: 0 auto;
+
+    border: 8px dashed green;
+    min-height: 10;
+  }
+
+
+
+

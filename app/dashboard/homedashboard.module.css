@@ -1,0 +1,18 @@
+.shap{
+
+  height: 0;
+  width: 0;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  border-bottom: 30px solid black;
+  
+
+  }
+
+  /*top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 50px;
+  width: 50px;
+  box-shadow: -15px 15px 0 5px white  ;
+  border-radius: 50%;*/
